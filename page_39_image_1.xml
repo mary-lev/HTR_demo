@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_39_image_1.jpeg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT45" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT46" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT47" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT48" LABEL="MainZone:column#1" DESCRIPTION="block type MainZone:column#1"/><OtherTag ID="BT49" LABEL="MainZone:column#2" DESCRIPTION="block type MainZone:column#2"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="621"
+          HEIGHT="1122"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="621"
+                  HEIGHT="1122">
+        <TextBlock HPOS="304"
+                   VPOS="187"
+                   WIDTH="303"
+                   HEIGHT="165"
+                   ID="eSc_textblock_28141c0c"
+                   TAGREFS="BT49">
+          <Shape><Polygon POINTS="304 187 304 352 607 352 607 187"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="211"
+                   VPOS="53"
+                   WIDTH="188"
+                   HEIGHT="34"
+                   ID="eSc_textblock_33338d66"
+                   TAGREFS="BT47">
+          <Shape><Polygon POINTS="211 53 211 87 399 87 399 53"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="546"
+                   VPOS="56"
+                   WIDTH="51"
+                   HEIGHT="37"
+                   ID="eSc_textblock_b43d3ddc"
+                   TAGREFS="BT45">
+          <Shape><Polygon POINTS="546 56 546 93 597 93 597 56"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="17"
+                   VPOS="370"
+                   WIDTH="591"
+                   HEIGHT="693"
+                   ID="eSc_textblock_81e447c0"
+                   TAGREFS="BT46">
+          <Shape><Polygon POINTS="17 370 17 1063 608 1063 608 370"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="9"
+                   VPOS="104"
+                   WIDTH="588"
+                   HEIGHT="59"
+                   ID="eSc_textblock_f1986ec7"
+                   TAGREFS="BT46">
+          <Shape><Polygon POINTS="9 104 9 163 597 162 597 104"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="11"
+                   VPOS="182"
+                   WIDTH="291"
+                   HEIGHT="159"
+                   ID="eSc_textblock_5febcd3f"
+                   TAGREFS="BT48">
+          <Shape><Polygon POINTS="11 183 11 341 302 341 299 182"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
